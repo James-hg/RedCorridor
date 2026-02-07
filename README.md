@@ -81,3 +81,12 @@ in game over. Maze layouts, scenes, and icons are located in the project’s mai
 
 Tutorial Video Link:
 <https://drive.google.com/file/d/10E-K-Jd5Qw11IhDcKS6pJzEomj2RDH3x/view?usp=sharing>
+
+## Acknowledgement
+
+This project is part of the CMPT 276 course's project, completed by Team 12. Team members:
+
+- James Hoang
+- Noah Cooper
+- Soumil Makhija
+- Sunny Machhiana
